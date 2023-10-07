@@ -35,7 +35,7 @@
 }
 
 .heroitem:first-child{
-  margin-left: 270px;
+  margin-left: 250px;
 }
 .heroitem{
   text-align: center;
@@ -48,7 +48,7 @@
  
 }
 .villanitem:last-child {
-  margin-right: 270px;
+  margin-right: 250px;
 }
 
 .basic {
